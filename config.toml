@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://mrsfreels.com/"
+baseurl = "https://www.mrsfreels.com/"
 languageCode = "en-us"
 title = "Mrs. Freels' Classroom"
 theme = "hugo-freelancer-theme"
