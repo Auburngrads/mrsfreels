@@ -103,11 +103,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "github.com/Auburngrads/"
+                link = "https://github.com/Auburngrads/"
 
             [[params.footer.social.networks]]
                 icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/users/4284664/jason-freels"
+                link=  "https://stackoverflow.com/users/4284664/jason-freels"
 
 
         [params.footer.credits]
