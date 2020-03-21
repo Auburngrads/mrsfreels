@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://mrsfreels.com/"
 languageCode = "en-us"
-title = "Hugo Freelancer Theme"
+title = "Mrs. Freels' Classroom"
 theme = "hugo-freelancer-theme"
 publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
