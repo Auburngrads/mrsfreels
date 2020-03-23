@@ -59,10 +59,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
     [params.about]
-        title = "About"
+        title = "Hi friends!"
         # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "I miss seeing you all so much! I hope that you and your families are doing well while we are not together at PVN"
+        right = "My husband helped me build this website so  I can interact with all of you at home.  Each week I'll post lots of stuff and you can use the form below to tell me what you would like to see"
 
     [params.contact]
         title = "Contact"
