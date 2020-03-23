@@ -59,10 +59,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
     [params.about]
-        title = "Hi friends!"
+        title = "About"
         # The about text is splitted into a left and right column
-        left = "I miss seeing you all so much! I hope that you and your families are doing well while we are not together at PVN"
-        right = "My husband helped me build this website so  I can interact with all of you at home.  Each week I'll post lots of stuff and you can use the form below to tell me what you would like to see"
+        left = "Hi Friends! I really miss seeing each of you in my class everyday. I hope that you and your families are doing well and staying safe"
+        right = "My husband helped me build this website so I can interact with you at home.  Each week I'll post lots of great stuff for you and your families to use at home. You can even send me messages by using the form below "
 
     [params.contact]
         title = "Contact"
