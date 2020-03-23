@@ -8,6 +8,12 @@
             </div>
         </div>
         <div class="row">
+         <div class="col-lg-8 col-lg-offset-2">
+          <p>You can use this form to tell me other books that you'd like for me to read or to tell me about something interesting that you did with your family.<br/><br/>Anything entered here will be sent to me in an email and will not be posted publicly</p>
+         </div>
+        </div>
+        <br/><br/>
+        <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <form  action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}" method="POST" name="sentMessage" id="contactForm" novalidate>
                     <div class="row control-group">
