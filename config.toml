@@ -65,7 +65,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         right = "My husband helped me build this website so I can interact with you at home.  Each week I'll post lots of great stuff for you and your families to use at home. You can even send me messages by using the form below "
 
     [params.contact]
-        title = "Contact"
+        title = "Contact Me"
 
         # 'error' defines error messages for invalid inputs
         [params.contact.form.name]
@@ -103,7 +103,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "https://github.com/Auburngrads/"
+                link = "https://github.com/Auburngrads/mrsfreels"
 
             [[params.footer.social.networks]]
                 icon = "fa-stack-overflow"
