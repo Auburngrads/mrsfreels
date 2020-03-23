@@ -1,14 +1,15 @@
 modalID: 1
-title: Project Cabin
-date: 2014-07-13
+title: Let's Read Some Books Together
+short_title: Let's Read!
+date: 2020-03-23
 img: cabin.png
-client: Start Bootstrap
+client: Mrs. Freels Class (PVN)
 clientLink: "#"
-category: Web Development
+category: Reading & Literacy
 description: | 
  Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons](//sellfy.com/p/8Q9P/jV3VZ/"). On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-vids: 
-  vid1:
-    name: https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1
-  vid2:
-    name: https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1
+videos: 
+  video1:
+    url: https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1
+  video2:
+    url: https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1
