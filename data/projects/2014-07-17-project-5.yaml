@@ -11,3 +11,10 @@ description: |
  Use this area of the page to describe your project. 
  
  I'll update this page a few times each week -- so check back often!
+video_list: 
+  video1:
+    url: https://www.youtube.com/embed/g8OaWL3nACU?autoplay=1
+    caption: "Animal Walks"
+  video2:
+    url: https://drive.google.com/file/d/1qNP1x9gNNOgHlGtS-UryihwRW4jiLuxq/preview
+    caption: "Scissors"
