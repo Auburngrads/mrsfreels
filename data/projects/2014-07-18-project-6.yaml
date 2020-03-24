@@ -11,3 +11,22 @@ description: |
  Use this area of the page to describe your project. 
  
  I'll update this page a few times each week -- so check back often!
+video_list: 
+  video1:
+    url: https://www.youtube.com/embed/75TCds57tB4?autoplay=1
+    caption: "Requesting with Play doh"
+  video2:
+    url: https://www.youtube.com/embed/sXuOq_hCcSQ?autoplay=1
+    caption: "/s/ blends with play doh"
+  video3:
+    url: https://www.youtube.com/embed/j1Drl8jurpM?autoplay=1
+    caption: "/k/ with play doh"
+  video4:
+    url: https://www.youtube.com/embed/kWPUeRwG74s?autoplay=1
+    caption: "Spatial concepts with toy"
+  video5:
+    url: https://www.youtube.com/embed/MatBLBvpCIQ?autoplay=1
+    caption: "/f/ with stickers"
+  video6:
+    url: https://www.youtube.com/embed/ABUhk4n3hSU?autoplay=1
+    caption: "Vocabulary/final consonant sounds/animal sounds with farm stickers"
