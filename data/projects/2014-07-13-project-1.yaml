@@ -7,14 +7,16 @@ client: Mrs. Freels Class (PVN)
 clientLink: "#"
 category: Reading & Literacy
 description: | 
- Here's where I'll post videos of me reading some of your favorite books. I'll also post other places you can go to hear more books read aloud. 
+ Here's where I'll post videos of me (and my family) reading some of your favorite books. I'll also post other links to places you can go to hear more books being read aloud. 
  
  I'll update this page a few times each week -- so check back often!
 video_list: 
   video1:
     url: https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1
+    caption: "Mrs Freels reading Goodnight Moon"
   video2:
     url: https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1
+    caption: "Mr Freels reading Alexander's no good very bad day"
 resource_list:
   resource1:
     name: Drudge Report
