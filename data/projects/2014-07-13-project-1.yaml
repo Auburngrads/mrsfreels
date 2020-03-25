@@ -17,10 +17,10 @@ video_list:
   video2:
     url: https://www.youtube.com/embed/8D6hkfQTztQ?autoplay=1
     caption: "Mrs. Freels reads I AM A FROG!!!"
-  video2:
+  video3:
     url: https://www.youtube.com/embed/O7-tVv3yL-w?autoplay=1
     caption: "Ms. Jen reads The Napping House"
-  video2:
+  video4:
     url: https://www.youtube.com/embed/VVFyWWD_DNI?autoplay=1
     caption: "Ms. Atkins reads Why do you love me?"
 #resource_list:
