@@ -26,3 +26,6 @@ video_list:
   video5:
     url: https://www.youtube.com/embed/tg1D3a-j_-U?autoplay=1
     caption: "Mrs. Henderson reads I Like Colors"
+  video6:
+    url: https://www.youtube.com/embed/H2at_IwFmQ8?autoplay=1
+    caption: "Mrs. Freels reads Big Green Monster"
