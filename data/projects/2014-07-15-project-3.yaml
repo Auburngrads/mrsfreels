@@ -7,10 +7,49 @@ client: Mrs. Freels Class (PVN)
 clientLink: "#"
 category: Resources for PVN Parents
 description: |
- Here's where I will post links to other useful resources for parents to use at home with your children
+ Here's where you'll find links to useful resources for you to use at home with your child
  
-  I'll update this page a few times each week -- so check back often!
+  This page will be updated a few times each week -- so check back often!
 video_list:
   video1:
     url: https://www.youtube.com/embed/QjgqkpzYq6w?autoplay=1
     caption: "Miss Zimmerman shows us the right way to wash our hands"
+resource_list:
+  resource1:
+    name: "star fall"
+    url: https://starfall.com
+    description: "Children have fun while they learn reading, phonics, and math.  It has educational movies games, books, songs and more for children ages pre k-3rd grade."
+  resource2:
+    name: GoNoodle
+    url: https://gonoodle.com
+    description: "Videos and games your kids will love.  Popsico, frozen yoga with Ruby Broom, and lots of other fun songs the children love at school."
+  resource3:
+    name: San Diego Zoo website for kids
+    url: https://kids.sandiegozoo.org/
+    description: San Diego zoo has a website just for kids with amazing videos, activities, and games.  Enjoy the tour!
+  resource4:
+    name: Tour of Yellowstone National Park!
+    url: https://www.nps.gov/yell/learn/photosmultimedia/virtualtours.htm
+    description: Take a tour of Yellowstone National Park!   
+  resource5:
+    name: Seussville
+    url: https://www.seussville.com/
+    description: Read, play games, and hang out with Dr. Seuss! 
+  resource6:
+    name: Geography and animals
+    url: https://kids.nationalgeographic.com/
+    description: Explore animals and geography with National Geographic
+  resource7:
+    name: Storyline
+    url: https://www.storylineonline.net/
+    description: Favorite kids books read by famous people
+  resource8:
+    name: all kids network
+    url: https://www.allkidsnetwork.com/
+    description: Crafts, activities, mazes, dot to dot, etc
+  resource9:
+    name: Highlights kids
+    url: https://www.highlightskids.com/
+    description: Fun games, recipes, crafts, activies
+    
+        
