@@ -13,10 +13,16 @@ description: |
 video_list: 
   video1:
     url: https://www.youtube.com/embed/ZW5smcrRqrg?autoplay=1
-    caption: "Mrs Freels reads Chick-Chicka-Boom-Boom. (You can hear Aubie wrestle with a toy at the beginning)"
+    caption: "Mrs. Freels reads Chick-Chicka-Boom-Boom. (You can hear Aubie wrestle with a toy at the beginning)"
   video2:
     url: https://www.youtube.com/embed/8D6hkfQTztQ?autoplay=1
-    caption: "Mr Freels reads I AM A FROG!!!"
+    caption: "Mrs. Freels reads I AM A FROG!!!"
+  video2:
+    url: https://www.youtube.com/embed/O7-tVv3yL-w?autoplay=1
+    caption: "Ms. Jen reads The Napping House"
+  video2:
+    url: https://www.youtube.com/embed/VVFyWWD_DNI?autoplay=1
+    caption: "Ms. Atkins reads Why do you love me?"
 #resource_list:
 #  resource1:
 #    name: Drudge Report
