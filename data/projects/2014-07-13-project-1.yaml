@@ -19,10 +19,13 @@ video_list:
     caption: "Mrs. Freels reads I AM A FROG!!!"
   video3:
     url: https://www.youtube.com/embed/O7-tVv3yL-w?autoplay=1
-    caption: "Ms. Jen reads The Napping House"
+    caption: "Ms. Nangle reads The Napping House"
   video4:
     url: https://www.youtube.com/embed/VVFyWWD_DNI?autoplay=1
-    caption: "Ms. Atkins reads Why do you love me?"
+    caption: "Ms. Atkins reads Why Do You Love Me?"
+  video5:
+    url: https://www.youtube.com/embed/tg1D3a-j_-U?autoplay=1
+    caption: "Mrs. Henderson reads I Like Colors"
 #resource_list:
 #  resource1:
 #    name: Drudge Report
