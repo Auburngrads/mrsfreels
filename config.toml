@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Mrs. Freels"
-    description = "My awesome description"
+    description = "Resources for PVN Preschool students"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
