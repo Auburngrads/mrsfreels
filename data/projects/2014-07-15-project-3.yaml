@@ -10,3 +10,7 @@ description: |
  Here's where I will post links to other useful resources for parents to use at home with your children
  
   I'll update this page a few times each week -- so check back often!
+video_list:
+  video1:
+    url: https://www.youtube.com/embed/QjgqkpzYq6w?autoplay=1
+    caption: "Miss Zimmerman shows us the right way to wash our hands"
