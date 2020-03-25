@@ -65,7 +65,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         right = "My husband helped me build this website so I can interact with you at home.  Each week I'll post lots of great stuff for you and your families to use at home. You can even send me messages by using the form below "
 
     [params.contact]
-        title = "Contact Me"
+        title = "Contact Us"
 
         # 'error' defines error messages for invalid inputs
         [params.contact.form.name]
