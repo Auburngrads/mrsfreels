@@ -50,6 +50,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
         title = "Activities"
+        poll = "2813017xBb4235A0-82"
 
         [params.portfolio.modal]
             client = "Client"
