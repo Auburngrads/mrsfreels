@@ -17,3 +17,6 @@ video_list:
   video2:
     url: https://www.youtube.com/embed/aXtTWc12HPs?autoplay=1
     caption: "Rainbow names"
+  video3:
+    url: https://www.youtube.com/embed/-hviY-Bp9zg?autoplay=1
+    caption: "Mrs Freels Checks on our peanut plants (March 25, 2020)"
