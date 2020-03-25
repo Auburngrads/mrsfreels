@@ -44,7 +44,7 @@ resource_list:
     url: https://www.storylineonline.net/
     description: Favorite kids books read by famous people
   resource8:
-    name: all kids network
+    name: All kids network
     url: https://www.allkidsnetwork.com/
     description: Crafts, activities, mazes, dot to dot, etc
   resource9:
