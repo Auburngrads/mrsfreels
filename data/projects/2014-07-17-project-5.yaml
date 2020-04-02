@@ -18,3 +18,12 @@ video_list:
   video2:
     url: https://www.youtube.com/embed/y6rD04nQZSg?autoplay=1
     caption: "Mrs. Bhanu shows how to build fine motor skills using scissors"
+  video3:
+    url: https://www.youtube.com/embed/euDkatxT7Fk?autoplay=1
+    caption: "Mrs. Bhanu teaches us how to snap"
+  video4:
+    url: https://www.youtube.com/embed/-C0ZdA8tTqk?autoplay=1
+    caption: "Mrs. Bhanu shows how to button & unbutton by yourself"
+  video5:
+    url: https://www.youtube.com/embed/rY0HxFLSTUY?autoplay=1
+    caption: "Mrs. Bhanu shows how to zip & unzip by yourself"
