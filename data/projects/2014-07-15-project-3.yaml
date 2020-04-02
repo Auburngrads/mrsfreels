@@ -51,5 +51,27 @@ resource_list:
     name: Highlights kids
     url: https://www.highlightskids.com/
     description: Fun games, recipes, crafts, activies
-    
-        
+  resource10:
+    name: Bloom-Art
+    url: www.generativemusic.com/bloom.html\
+    description: Mixed instruments and artwork
+  resource11:
+    name: Brains on!
+    url: www.brainson.org/
+    description: "Podcast uses science and history to explore questions about the world"
+  resource12:
+    name: Khan Academy   
+    url: www.khanacademy.org
+    description: "Access free math, science and computer programming courses from KG through High school. The kids should see this www.thekidsshouldseethis.com Offers more than 4000 eclectic children’s videos. It is also entertaining for adults"
+  resource13:
+    name: Mystery Science 
+    url: www.mysteryscience.com
+    description: Features video lessons for elementary school children and offers hands-on activities.
+  resource14:
+    name: Scratch
+    url: www.scratch.mit.edu
+    description: A free programming community from MIT that gives students a chance to create interactive stories games and animation.
+  resource15:
+    name: Toontastic 3D  
+    url: https://toontastic.withgoogle.com
+    description: Children can turn their stories into cartoons with animation, narration and music using this app.2
