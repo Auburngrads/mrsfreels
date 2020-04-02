@@ -30,3 +30,17 @@ video_list:
   video6:
     url: https://www.youtube.com/embed/ABUhk4n3hSU?autoplay=1
     caption: "Mrs Ellinger helps us practice vocabulary/final consonant sounds/animal sounds with farm stickers"
+  video7:
+    url: https://www.youtube.com/embed/8Cv945jMRmU?autoplay=1
+    caption: "Mrs Ellinger shows how to practice pronouns with toys"
+  video8:
+    url: https://www.youtube.com/embed/9WkXZgDoBV8?autoplay=1
+    caption: "Mrs Ellinger helps us practice multi-syllable words/speech sounds with matching game"
+  video9:
+    url: https://www.youtube.com/embed/RoxZ4V02swU?autoplay=1
+    caption: "Mrs Ellinger shows how to practice book reading targeting receptive and expressive language skills"
+resource_list:
+  resource1:
+    name: Everyday ways to build language skills
+    url: ://resources/build_language.pptx
+    description: Educational games that you can play at home any time.
