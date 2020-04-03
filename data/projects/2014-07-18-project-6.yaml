@@ -42,5 +42,6 @@ video_list:
 resource_list:
   resource1:
     name: Everyday ways to build language skills
-    url: ://resources/build_language.pptx
+    url: build_language.pptx
     description: Educational games that you can play at home any time.
+    file_local: yes
