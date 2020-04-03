@@ -48,7 +48,12 @@
                         <ul style="padding-left:0;">
                         {{range .resource_list}}
                         <li type="none">
+                        {{if .file_local}}
+                         <a target="" href="{{with .Site.content.resources}}{{.url}}{{end}}"><h4 style="line-height:1.25em; margin-bottom:0;">{{.name}}</h4></a>
+                         
+                        {{else}}
                         <a target="" href="{{.url}}"><h4 style="line-height:1.25em; margin-bottom:0;">{{.name}}</h4></a>
+                        {{end}}
                         <br/>
                         <h5 style="line-height:1.25em; margin-top:0;">{{.description}}</h5>
                         </li>
