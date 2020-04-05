@@ -29,3 +29,6 @@ video_list:
   video6:
     url: https://www.youtube.com/embed/H2at_IwFmQ8?autoplay=1
     caption: "Mrs. Freels reads Big Green Monster"
+  video6:
+    url: https://www.youtube.com/embed/-zMViZj19YI?autoplay=1
+    caption: "Mrs. Freels reads The Very Hungry Caterpillar"
