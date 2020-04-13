@@ -1,4 +1,92 @@
 {{ "<!-- Portfolio Modals -->" | safeHTML }}
+
+
+{{ range .Site.Data.lessons }}
+<div class="portfolio-modal modal fade" id="portfolioModal{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>{{ .title }}</h2>
+                        <hr class="star-primary">
+                        <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
+                        <p>{{ .description | markdownify }}</p>
+                        <br/>
+                        {{if .video_list}}
+                        <div class="col-lg-8 col-lg-offset-2">
+                         <div class="modal-body">
+                         <h3>Videos</h3>
+                        <hr>
+                        <br/>
+                        {{ range .video_list }}
+                        <div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden;">
+                            
+                        <iframe src="{{ .url }}?autoplay=0&loop=0&autopause=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">
+                        </iframe>
+                        </div>
+                        <div>
+                        <p>{{.caption}}</p>
+                        </div>
+                        <br/>
+                        <br/>
+                        {{end}}
+                        </div>
+                         </div>
+                        {{end}}
+                        
+                        {{if .resource_list}}
+                        <div class="col-lg-8 col-lg-offset-2">
+                         <div class="modal-body">
+                         <h3>Resources</h3>
+                         <hr>
+                         <br/>
+                        <ul style="padding-left:0;">
+                        {{range .resource_list}}
+                        <li type="none">
+                        {{if .file_local}}
+                         <a target="" href="{{with .Site.content.resources}}{{.url}}{{end}}"><h4 style="line-height:1.25em; margin-bottom:0;">{{.name}}</h4></a>
+                         
+                        {{else}}
+                        <a target="" href="{{.url}}"><h4 style="line-height:1.25em; margin-bottom:0;">{{.name}}</h4></a>
+                        {{end}}
+                        <br/>
+                        <h5 style="line-height:1.25em; margin-top:0;">{{.description}}</h5>
+                        </li>
+                        <br/>
+                        <br/>
+                        {{end}}
+                        </ul>
+                        </div>
+                         </div>
+                        {{end}}
+                        <ul class="list-inline item-details">
+                            <li>{{ with $.Site.Params.portfolio.modal.client }}{{.}}{{ end }}:
+                                <strong><a href="{{ .clientLink }}">{{ .client }}</a></strong>
+                            </li>
+                            <li>{{ with $.Site.Params.portfolio.modal.date }}{{.}}{{ end }}:
+                                <strong>{{ .date }}</strong>
+                            </li>
+                            <li>{{ with $.Site.Params.portfolio.modal.category }}{{.}}{{ end }}:
+                                <strong>{{ .category }}</strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttontext }}{{.}}{{ end }}</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+
 {{ range .Site.Data.projects }}
 <div class="portfolio-modal modal fade" id="portfolioModal{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
