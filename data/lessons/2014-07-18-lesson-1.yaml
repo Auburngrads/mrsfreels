@@ -1,0 +1,19 @@
+modalID: 1
+title: Weekly Lesson Plans
+short_title: Lesson Plans
+date: 2020-03-23
+img: lesson.png
+client: Mrs. Freels Class (PVN)
+clientLink: "#"
+category: Weekly Lesson Plans of Ideas Parents Can Use with Their Children
+description: |
+
+ Here's where you'll find lesson plans, created by your the PVN preschool team, to use with your children at home
+ 
+ This page will be updated a few times each week -- so check back often!
+resource_list:
+  resource1:
+    name: Lesson plan (April 13 - 17)
+    url: https://docs.google.com/document/d/1Fmwy8LCpR7M8xm29UXNjMP8Fwn1SrcDDNATx-UON1WU/edit
+    description: Helping your child connect new information with known entities at home
+    file_local: no
