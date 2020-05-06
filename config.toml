@@ -6,6 +6,23 @@ theme = "hugo-freelancer-theme"
 publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+[markup]
+  [markup.blackFriday]
+#    angledQuotes = false
+#    footnoteAnchorPrefix = ""
+#    footnoteReturnLinkContents = ""
+#    fractions = true
+#    hrefTargetBlank = false
+#    latexDashes = true
+#    nofollowLinks = false
+#    noreferrerLinks = false
+#    plainIDAnchors = true
+    skipHTML = false
+#    smartDashes = true
+#    smartypants = true
+#    smartypantsQuotesNBSP = false
+#    taskLists = true
+
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for
