@@ -10,7 +10,7 @@ description: |
 
  Here's where you'll find videos and resources that can help you practice speech concepts with your child. 
  
- This page will be updated a few times each week -- so check back often!
+ This page will be updated regularly -- so check back often!
 video_list: 
   video1:
     url: https://www.youtube.com/embed/75TCds57tB4?autoplay=1
@@ -41,7 +41,67 @@ video_list:
     caption: "Mrs Ellinger shows how to practice book reading targeting receptive and expressive language skills"
 resource_list:
   resource1:
-    name: Everyday ways to build language skills
-    url: build_language.pptx
-    description: Educational games that you can play at home any time.
-    file_local: yes
+    name: "Core and Fringe Vocabulary"
+    url: https://drive.google.com/file/d/1zaHtDVlv7-v3azs-goytyMLnDoSH0nWC/view?usp=sharing
+    description: Core vocabulary words are pronouns, verbs, and demonstratives that get used in many different environments
+    file_local: no
+  resource2:
+    name: "Core Words: Give & Take"
+    url: https://drive.google.com/file/d/1rr_XeWnSxfXdBHZ_-Pff3mv6P4W-KMUL/view?usp=sharing
+    description: This resource helps children use the core words Give and Take to form phrases and sentences
+    file_local: no
+  resource3:
+    name: "Core Words: Go"
+    url: https://drive.google.com/file/d/1bDB2-0yexTI6n6GaK_0YX_MSWNYl8nBI/view?usp=sharing
+    description: This resource helps children use the core word Go to form phrases and sentences
+    file_local: no
+  resource4:
+    name: "Core Words: Help"
+    url: https://drive.google.com/file/d/1gPm2y399rWVVTolWVSNeltO5z2sGy4CZ/view?usp=sharing
+    description: This resource helps children use the core word Help to form phrases and sentences
+    file_local: no
+  resource5:
+    name: "Core Words: Make"
+    url: https://drive.google.com/file/d/1Kq0YgIUkJcjriVvdf4rCruzdshy2Pfpu/view?usp=sharing
+    description: This resource helps children use the core word Make to form phrases and sentences
+    file_local: no
+  resource6:
+    name: "Core Words: Me & My"
+    url: https://drive.google.com/file/d/18PFyYBD5mwAuXOJF6VBl-rHvbaGO1liY/view?usp=sharing
+    description: This resource helps children use the core words Me and My to form phrases and sentences
+    file_local: no
+  resource7:
+    name: "Core Words: On"
+    url: https://drive.google.com/file/d/1v1cf8Df41IscV1XG9L4do97Rhtva_BR5/view?usp=sharing
+    description: This resource helps children use the core word On to form phrases and sentences
+    file_local: no
+  resource8:
+    name: "Core Words: Open"
+    url: https://drive.google.com/file/d/1hNhHGKWfnQuoRVYdgyTi9aFmEhpLQwaw/view?usp=sharing
+    description: This resource helps children use the core word Open to form phrases and sentences
+    file_local: no
+  resource9:
+    name: "Core Words: Put"
+    url: https://drive.google.com/file/d/1V3Kk-mS3eUc4vGyjsoehL9cugjoRyimv/view?usp=sharing
+    description: This resource helps children use the core word Put to form phrases and sentences
+    file_local: no
+  resource10:
+    name: "Core Words: Stop"
+    url: https://drive.google.com/file/d/1RhzCWFVuA_oFAxvE6tae9uVcdxudKlBV/view?usp=sharing
+    description: This resource helps children use the core word Stop to form phrases and sentences
+    file_local: no
+  resource11:
+    name: "Core Words: Wait"
+    url: https://drive.google.com/file/d/1dLdYlDagLoHPn5o9l0IUsOWDIHFwdxcU/view?usp=sharing
+    description: This resource helps children use the core word Wait to form phrases and sentences
+    file_local: no
+  resource12:
+    name: "Core Words: Want"
+    url: https://drive.google.com/file/d/1ZTuB0UYHXHXmy-r-EdNl0mB7DCWwaizP/view?usp=sharing
+    description: This resource helps children use the core word Want to form phrases and sentences
+    file_local: no
+  resource13:
+    name: "Core Words: Yes & No"
+    url: https://drive.google.com/file/d/1azgVbbECAeEcHTFnqBosORrV3oykMWon/view?usp=sharing
+    description: This resource helps children use the core words Yes and No to form phrases and sentences
+    file_local: no
